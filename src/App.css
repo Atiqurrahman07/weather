@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400&display=swap");
+.app {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background: url(./assets/cold-bg.jpg);
+  height: 100vh;
+  width: 100vw;
+ 
+}
+body{
+  background-color: #333;
+}
